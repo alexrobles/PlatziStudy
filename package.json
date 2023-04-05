@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "tsc-watch": "^6.0.0"
+  }
+}
